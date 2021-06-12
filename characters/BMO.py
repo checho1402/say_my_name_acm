@@ -1,3 +1,3 @@
 class BMO:
     def SayName(self):
-        print("BMO: Battery low. Shutdown")
+        print("BMO: Battery low. Shutdown.")
